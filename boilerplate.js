@@ -39,7 +39,7 @@ async function install (context) {
 
   const perfStart = (new Date()).getTime()
 
-  const name = parameters.third
+  const name = parameters.third || 'Mobius'
   const spinner = print
     .spin(`using the ${blue('Andross Typescript')} ignite boilerplate`)
     .succeed()
