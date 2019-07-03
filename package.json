@@ -1,6 +1,6 @@
 {
   "bugs": {
-    "url": "https://github.com/lvlrSajjad/ignite-boilerplate-andross-typescript/issues"
+    "url": "https://github.com/Konfigurujemy/ignite-boilerplate-andross-typescript/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -31,12 +31,12 @@
     "readme.md",
     "screenExamples.js"
   ],
-  "homepage": "https://github.com/lvlrSajjad/ignite-boilerplate-andross-typescript",
+  "homepage": "https://github.com/Konfigurujemy/ignite-boilerplate-andross-typescript",
   "license": "MIT",
   "name": "ignite-boilerplate-andross-typescript",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lvlrSajjad/ignite-boilerplate-andross-typescript.git"
+    "url": "git+https://github.com/Konfigurujemy/ignite-boilerplate-andross-typescript.git"
   },
   "scripts": {
     "coverage": "jest --runInBand --coverage",
